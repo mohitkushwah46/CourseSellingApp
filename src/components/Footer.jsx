@@ -5,9 +5,9 @@ const Footer = () => {
     <>
       <div className="footer-body">
         <div className="developer">
-        <h1>Developer-Abhishek Maurya</h1>
-        <p>email - abhishekmaurya.webdev@gmail.com</p>
-        <p>github - @abhiishekh</p>
+        <h1>Developer-Mohit kushwaha</h1>
+        <p>email - mohitmsq@gmail.com</p>
+        <p>github - @mohitkushwah46</p>
         </div>
         <div className="contact">
             <input type="text" placeholder='Send us message'/>
